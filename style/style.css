@@ -1,7 +1,32 @@
+body{
+	background-color: black;
+}
 p {
 	font-family: MonoSpace;
 	font-size: 20px;
 }
 h1{
 	font-family: cursive;
+}
+.image{
+	width: 200px;
+	border-radius: 60%;
+}
+.about-me{
+	color: #ccc;
+}
+.intro-name{
+	color: white;
+}
+.btn{
+	background-color: black;
+	color: white;
+}
+.home-section{
+	background-image: url("http://goo.gl/TdE8hb");
+/*	background-size: 1000px 500px ;*/
+	background-repeat: no-repeat;
+
+	height: 350px;
+	margin-top:auto;
 }
