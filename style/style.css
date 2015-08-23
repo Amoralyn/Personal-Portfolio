@@ -24,9 +24,8 @@ h1{
 }
 .home-section{
 	background-image: url("http://goo.gl/TdE8hb");
-/*	background-size: 1000px 500px ;*/
 	background-repeat: no-repeat;
-
-	height: 350px;
+	height: 500px;
+	max-width: 100%;
 	margin-top:auto;
 }
